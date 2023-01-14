@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @singhimanshu1
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ... ML
+- 👋 Hi, I’m Himanshu Singh
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on ... Java Open Sourse Project
 - 📫 How to reach me ... 
 - type "singhimanshu1" in any social media and coding hub.
 
